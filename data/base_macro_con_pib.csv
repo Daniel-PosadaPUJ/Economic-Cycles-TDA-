@@ -1,4 +1,4 @@
-Fecha,Precio_Brent_USD,Valor_COLCAP,Indice_de_precios_al_Consumidor,Indicador de Seguimiento a la Economía,Indice_de_tasa_de_cambio_real,Tasa_de_desempleo_Total_Nacional,PIB
+Fecha,precio_brent_usd,valor_colcap,Indic_de_precios_al_consumidor,Indic_seguimiento_economia,Indic_tasa_de_cambio_real,tasa_desempleo,pib
 2008-02-01,100.1,914.9,66.5,75.6,103.65,12.19,151082
 2008-03-01,100.3,889.28,67.04,74.3,102.22,11.34,151161
 2008-04-01,111.36,985.95,67.51,75.4,99.87,11.08,151246
